@@ -1,0 +1,5 @@
+{
+  "exclude": [".docusaurus", "build"],
+  "extends": "./tsconfig.json",
+  "include": ["."]
+}
